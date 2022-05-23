@@ -1,12 +1,15 @@
-### Coderserif
+### coderserif
 
-Hey guys what's up welcome back to another repository 
 
-My name is Serif and I like memes. Also dogs.
+my name is serif!
+avid enjoyer of cartoons
+dogs
+memes
+drawing
 
 
 check out my website its cooooool B) https://coderserif.github.io
 
-also my comics are cool. just go to https://coderserif.github.io/comix?comix=0 
+and my comics as well. just go to https://coderserif.github.io/comix?comix=0 
 
 ight cya :trollface:
