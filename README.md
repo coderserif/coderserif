@@ -12,7 +12,9 @@ dogs,
 
 check out my website its cooooool B) https://coderserif.github.io
 
-and my comics as well. just go to https://coderserif.github.io/comix?comix=0 
+and my comics as well. just go to https://coderserif.github.io/comix?comix=0
+
+or maybe you cam here from my website, in that case that's cool too
 <hr>
 
 ight cya (• ε •)
