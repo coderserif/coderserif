@@ -5,7 +5,7 @@
 
 (•◡•)/ 
 
-hi guys my name is serif!!!
+hi my name is seriff
 <br>
 avid enjoyer of cartoons, dogs, memes, and drawing
 
@@ -21,4 +21,4 @@ AND my <a href="https://coderserif.github.io/misc/comix?comix=0">COMICS</a> as w
 or maybe you came here from my website, in that case that's cool too
 <hr>
 
-ight cya (• ε •)
+ok bye
