@@ -3,20 +3,20 @@
 </p>
 <hr>
 
-(•◡•)/ 
-
-hi my name is seriff
+serif and i make drawings
 <br>
-avid enjoyer of cartoons, dogs, memes, and drawing
+ ̶a̶v̶i̶d̶ ̶e̶n̶j̶o̶y̶e̶r̶ ̶o̶f̶ ̶c̶a̶r̶t̶o̶o̶n̶s̶,̶ ̶d̶o̶g̶s̶,̶ ̶m̶e̶m̶e̶s̶,̶ ̶a̶n̶d̶ ̶d̶r̶a̶w̶i̶n̶g̶
+ <br>
+ UPDATED LIST: i now also like to eat food (bet u didnt know that until i pointed it out. you know so much about me )
 
 <hr>
 <h1>LINKS</h1>
 
-ok first check out my <a href="https://youtube.com/serifanimates">yt</a> rn
+<a href="https://youtube.com/serifanimates">youtube but i actually dont post anything</a>
 <br>
-did you see it? ok cool now check out my <a href="https://coderserif.github.io">website</a> its epik!1 B)
+<a href="https://coderserif.github.io">website aka the reason i made this stupid account. im not a coder</a>
 
-or maybe you came here from my website, in that case that's cool too
+yes
 <hr>
 
 ok bye
