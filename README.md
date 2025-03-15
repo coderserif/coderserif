@@ -3,20 +3,25 @@
 </p>
 <hr>
 
-serif and i make drawings
-<br>
- ̶a̶v̶i̶d̶ ̶e̶n̶j̶o̶y̶e̶r̶ ̶o̶f̶ ̶c̶a̶r̶t̶o̶o̶n̶s̶,̶ ̶d̶o̶g̶s̶,̶ ̶m̶e̶m̶e̶s̶,̶ ̶a̶n̶d̶ ̶d̶r̶a̶w̶i̶n̶g̶
- <br>
- UPDATED LIST: i now also like to eat food (bet u didnt know that until i pointed it out. you know so much about me )
+my name is serif and this is the github wait you already know that
+
+I LOVE YOU!!
+
+there i said it
+
+![badgeofhonor](https://img.shields.io/badge/pretty%20warm-pretty%20warm-%23FFD30B?style=plastic&logo=sunrise&logoColor=%23FFD30B&logoSize=auto&label=lukewarmness&labelColor=%238C8B87&color=%23FFD30B)
+
+<img src="https://cdn3.emoji.gg/emojis/56771-joobi-yellow-kitty-face.png" width="70" height="55" />
+
+
+basically go to [my website](https://coderserif.github.io/) for everything about me but tldr:
+
+artist / kinda-animator / website & game-making as a hobby
 
 <hr>
-<h1>LINKS</h1>
 
-<a href="https://youtube.com/serifanimates">youtube but i actually dont post anything</a>
-<br>
-<a href="https://coderserif.github.io">website aka the reason i made this stupid account. im not a coder</a>
+links: [website](https://coderserif.github.io) / [twitter](https://twitter.com/serifsirf) / [youtube](https://youtube.com/@serifsirf) / [github](https://github.com/OgGhostJelly/OgGhostJelly/blob/main/the-github.md) / [friend](https://github.com/OgGhostJelly)
 
-yes
 <hr>
 
-ok bye
+[reach me here totally](https://www.youtube.com/watch?v=qiSPOJFi4L8) okay thanks bye
