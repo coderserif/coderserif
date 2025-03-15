@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="card.gif" />
+  <img src="serifcard.gif" />
 </p>
 <hr>
 
