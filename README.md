@@ -4,7 +4,10 @@
 <hr>
 
 my name is serif and this is the github wait you already know that
+<br>
 im like serif but more silly ;33
+
+[@serifsirf](https://github.com/serifsirf) is the main
 
 I LOVE YOU!!
 
