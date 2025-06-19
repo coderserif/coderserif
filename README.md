@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="serifcard.gif" />
+  <img src="coderserifgift.gif" />
 </p>
 <hr>
 
 my name is serif and this is the github wait you already know that
+im like serif but more silly ;33
 
 I LOVE YOU!!
 
@@ -14,13 +15,13 @@ there i said it
 <img src="https://cdn3.emoji.gg/emojis/56771-joobi-yellow-kitty-face.png" width="70" height="55" />
 
 
-basically go to [my website](https://coderserif.github.io/) for everything about me but tldr:
+basically go to [my website](https://serifsirf.github.io/) for everything about me but tldr:
 
 artist / kinda-animator / website & game-making as a hobby
 
 <hr>
 
-links: [website](https://coderserif.github.io) / [twitter](https://twitter.com/serifsirf) / [youtube](https://youtube.com/@serifsirf) / [github](https://github.com/OgGhostJelly/OgGhostJelly/blob/main/the-github.md) / [friend](https://github.com/OgGhostJelly)
+links: [website](https://serifsirf.github.io) / [other website](https://coderserif.github.io) / [twitter](https://twitter.com/serifsirf) / [youtube](https://youtube.com/@serifsirf) / [github](https://github.com/OgGhostJelly/OgGhostJelly/blob/main/the-github.md) / [friend](https://github.com/OgGhostJelly)
 
 <hr>
 
